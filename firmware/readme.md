@@ -1,0 +1,1 @@
+To compile the firmware use Microchip [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) with [XC8](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc8).
