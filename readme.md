@@ -1,5 +1,7 @@
 ## Electronic Limit Switch
 
+![Prototype build of electronic limit switch.](https://raw.githubusercontent.com/dilshan/electronic-limit-switch/refs/heads/main/resources/electronic-limit-switch.jpg)
+
 This is an open-source fluid level control module designed for reliable and automated liquid management in tanks.
 
 ## Overview
