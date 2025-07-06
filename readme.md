@@ -8,7 +8,7 @@ This is an open-source fluid level control module designed for reliable and auto
 
 This module can utilize two float-type limit switches or electronic sensor switches to detect fluid levels and control a relay accordingly. A microcontroller implements hysteresis logic to avoid unnecessary relay toggling caused by minor fluid level fluctuations, which enhances the system's reliability and lifespan.
 
-## How It Works
+## How it works
 
 1. The module monitors two limit switches:
    - *Upper limit switch (J1)*: Closes when the fluid level falls below the upper threshold.
