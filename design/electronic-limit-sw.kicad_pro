@@ -491,7 +491,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../elect.lk/limit-switch-release/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
